@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <record>
+        <id>1</id>
+        <sellar_name>Corwin, Littel and Reilly</sellar_name>
+        <product_name>Soup - Campbells, Butternut</product_name>
+        <price>$98.71</price>
+        <shipping_charge>$9.62</shipping_charge>
+        <image>http://dummyimage.com/178x167.png/cc0000/ffffff</image>
+        <qty>4</qty>
+    </record>
+    <record>
+        <id>2</id>
+        <sellar_name>Lockman Group</sellar_name>
+        <product_name>Sterno - Chafing Dish Fuel</product_name>
+        <price>$77.49</price>
+        <shipping_charge>$7.30</shipping_charge>
+        <image>http://dummyimage.com/222x136.png/5fa2dd/ffffff</image>
+        <qty>2</qty>
+    </record>
+    <record>
+        <id>3</id>
+        <sellar_name>Gerhold-McGlynn</sellar_name>
+        <product_name>Pepper - Chili Powder</product_name>
+        <price>$29.65</price>
+        <shipping_charge>$4.00</shipping_charge>
+        <image>http://dummyimage.com/181x197.png/5fa2dd/ffffff</image>
+        <qty>4</qty>
+    </record>
+    <record>
+        <id>4</id>
+        <sellar_name>Auer Group</sellar_name>
+        <product_name>Tomatoes</product_name>
+        <price>$47.64</price>
+        <shipping_charge>$9.02</shipping_charge>
+        <image>http://dummyimage.com/118x168.png/dddddd/000000</image>
+        <qty>6</qty>
+    </record>
+    <record>
+        <id>5</id>
+        <sellar_name>Ullrich and Sons</sellar_name>
+        <product_name>Yoplait - Strawbrasp Peac</product_name>
+        <price>$22.78</price>
+        <shipping_charge>$8.53</shipping_charge>
+        <image>http://dummyimage.com/223x147.png/ff4444/ffffff</image>
+        <qty>5</qty>
+    </record>
+    <record>
+        <id>6</id>
+        <sellar_name>Nitzsche Group</sellar_name>
+        <product_name>Kolrabi</product_name>
+        <price>$49.12</price>
+        <shipping_charge>$8.49</shipping_charge>
+        <image>http://dummyimage.com/208x205.png/cc0000/ffffff</image>
+        <qty>5</qty>
+    </record>
+    <record>
+        <id>7</id>
+        <sellar_name>Schowalter Group</sellar_name>
+        <product_name>Melon - Cantaloupe</product_name>
+        <price>$46.57</price>
+        <shipping_charge>$6.92</shipping_charge>
+        <image>http://dummyimage.com/200x129.png/5fa2dd/ffffff</image>
+        <qty>6</qty>
+    </record>
+    <record>
+        <id>8</id>
+        <sellar_name>Osinski-Schamberger</sellar_name>
+        <product_name>Sponge Cake Mix - Vanilla</product_name>
+        <price>$78.65</price>
+        <shipping_charge>$2.74</shipping_charge>
+        <image>http://dummyimage.com/195x160.png/ff4444/ffffff</image>
+        <qty>9</qty>
+    </record>
+    <record>
+        <id>9</id>
+        <sellar_name>Volkman, Klocko and Stokes</sellar_name>
+        <product_name>Scallops - U - 10</product_name>
+        <price>$28.32</price>
+        <shipping_charge>$2.96</shipping_charge>
+        <image>http://dummyimage.com/120x243.png/5fa2dd/ffffff</image>
+        <qty>6</qty>
+    </record>
+    <record>
+        <id>10</id>
+        <sellar_name>Collins and Sons</sellar_name>
+        <product_name>Carrots - Purple, Organic</product_name>
+        <price>$51.83</price>
+        <shipping_charge>$5.89</shipping_charge>
+        <image>http://dummyimage.com/174x146.png/5fa2dd/ffffff</image>
+        <qty>7</qty>
+    </record>
+    <record>
+        <id>11</id>
+        <sellar_name>Hoppe-Rodriguez</sellar_name>
+        <product_name>Salt And Pepper Mix - Black</product_name>
+        <price>$36.02</price>
+        <shipping_charge>$2.57</shipping_charge>
+        <image>http://dummyimage.com/151x182.png/ff4444/ffffff</image>
+        <qty>5</qty>
+    </record>
+    <record>
+        <id>12</id>
+        <sellar_name>Hauck, Schimmel and West</sellar_name>
+        <product_name>Sambuca Cream</product_name>
+        <price>$43.40</price>
+        <shipping_charge>$3.15</shipping_charge>
+        <image>http://dummyimage.com/161x189.png/5fa2dd/ffffff</image>
+        <qty>1</qty>
+    </record>
+</dataset>
